@@ -18,4 +18,4 @@ Projeto para cadastrar matérias e registrar horas de estudo.
 - SQL (básico)  
 
 ## 📫 Contato
-💼 LinkedIn: (seu link aqui)
+💼 LinkedIn: www.linkedln.com/in/Julianascosta01
