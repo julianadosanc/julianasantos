@@ -1,2 +1,21 @@
-# julianasantos
-Olá! Eu sou a Juliana 👋   🎓 Estudante de Ciência da Computação   💼 Experiência na área administrativa   💻 Interesse em Tecnologia da Informação, desenvolvimento e dados   📂 Aqui compartilho meus projetos e aprendizados em TI
+Olá! Eu sou a Juliana 👋  
+🎓 Estudante de Ciência da Computação  
+💼 Experiência administrativa e pós-vendas  
+💻 Interesse em Tecnologia da Informação e desenvolvimento  
+
+## 📚 Estudos e Aprendizado
+Atualmente focada em Java, lógica de programação e organização de projetos no GitHub.
+
+## 📂 Projetos
+📌 Organizador de Estudos em Java  
+Projeto para cadastrar matérias e registrar horas de estudo.
+
+🚧 Novos projetos em desenvolvimento
+
+## 🛠 Tecnologias
+- Java  
+- Git e GitHub  
+- SQL (básico)  
+
+## 📫 Contato
+💼 LinkedIn: (seu link aqui)
